@@ -1,4 +1,4 @@
-# gtk-arc-sm-xfwm4
+# gtk-theme-arc-xfwm4
 Collection of XFWM4 themes for Arc GTK3 theme.
 
 Changes:
